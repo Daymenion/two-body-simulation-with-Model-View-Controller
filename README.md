@@ -1,4 +1,4 @@
-# two_body_simulation_in_python_and_c
+# two_body_simulation_in_python_and_c_with_MVC
 C11 gcc 8.1.0    -   Python version 3.7.1  -  Python libraries - TkInter
 
 Design and implement a two-body simulator that adheres to the Model-View-Controller (MVC) design pattern as follows:
